@@ -39,10 +39,25 @@ int main()
 
 
 
+        if(seleccion == 7){
 
-        validacionNumA(numeroA, A);
-        validacionNumB(numeroB, B);
+            break;
+        }
 
+        system(CLS);
+
+
+
+        printf("ingrese un valor : ");
+        scanf("%d", &A);
+
+        printf("ingrese un segundo valor : ");
+        scanf("%d", &B);
+
+
+
+        //validacionNumA(numeroA, A);
+        //validacionNumB(numeroB, B);
 
         switch(seleccion)
         {
