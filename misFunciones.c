@@ -132,9 +132,23 @@ int multiplicacion(int A, int B, int total)
 
 float division(float A, float B, float total)
 {
+    printf("ingresar Dividendo : ");
+    scanf("%f", &A);
 
-
+    printf("ingresar Divisor : ");
+    scanf("%f", &B);
     total = A / B;
+
+    if(B == 0)
+    {
+        printf("valor erroneo!!! \n");
+
+    }
+    else
+    {
+        printf("TOTAl : %f ", total);
+    }
+
 
     return total;
 
