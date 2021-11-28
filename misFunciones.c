@@ -18,7 +18,7 @@ void Menu()
     printf("7-SALIR \n");
 }
 
-int validacionNumA(char numeroA[50], int A)
+int validacionNumA(char numeroA[50])
 {
 
     printf("ingrese numero : ");
@@ -45,7 +45,7 @@ int validacionNumA(char numeroA[50], int A)
 
 
                 if(sw == 0){
-                    printf("valido");
+                    
                 }
 
 
@@ -60,7 +60,7 @@ int validacionNumA(char numeroA[50], int A)
 }
 
 
-int validacionNumB(char numeroB[50], int B)
+int validacionNumB(char numeroB[50])
 {
 
    // printf("ingrese numero 2: ");
@@ -86,7 +86,7 @@ int validacionNumB(char numeroB[50], int B)
         }
 
                 if(sw == 0){
-                    printf("valido");
+                    
                 }
 
 
