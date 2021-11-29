@@ -4,10 +4,6 @@
 
 void Menu();
 
-int validacionNumA(char numeroA[50], int A);
-
-int validacionNumB(char numeroB[50], int B);
-
 int suma(int A, int B, int total);
 
 int resta(int A, int B, int total);
