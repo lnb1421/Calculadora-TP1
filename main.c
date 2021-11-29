@@ -30,28 +30,28 @@ int main()
     {
 
 
-
         system(CLS);
 
 
         Menu();
         scanf("%d", &seleccion);
-        system(CLS);
 
 
         if(seleccion == 7)
         {
-
             break;
         }
 
-        printf("ingrese un valor : ");
-        scanf("%d", &A);
+        if(seleccion !=4 && seleccion !=5)
+        {
 
-        printf("ingrese el segundo valor : ");
-        scanf("%d", &B);
+            printf("ingrese un valor : ");
+            scanf("%d", &A);
 
+            printf("ingrese el segundo valor : ");
+            scanf("%d", &B);
 
+        }
 
         //validacionNumA(numeroA, A);
         //validacionNumB(numeroB, B);
