@@ -57,7 +57,7 @@ void Menu()
     gotoxy(12,12);printf(                   "*****      4 - Calcular la resta (A-B)             *****\n");
     gotoxy(12,13);printf(                   "*****      5 - Calcular la division (A/B)          *****\n");
     gotoxy(12,14);printf(                   "*****      6 - Calcular la multiplicacion (A*B)    *****\n");
-    gotoxy(12,15);printf(                   "*****      7 - Calcular el factorial (A!)          *****\n");
+    gotoxy(12,15);printf(                   "*****      7 - Calcular el factorial (A!)(MAX 33)  *****\n");
     gotoxy(12,16);printf(                   "*****      8 - Calcular todas las operaciones      *****\n");
     gotoxy(12,17);printf(                   "*****      9 - Salir                               *****\n");
     gotoxy(12,18);printf(                   "*****                                              *****\n");
