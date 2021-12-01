@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1638139815 source:f:\cudi\programacion i\c\trabajo practico n°1\misfunciones.c
+
+1638141152 source:f:\cudi\programacion i\c\trabajo practico n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1638139402 f:\cudi\programacion i\c\trabajo practico n°1\misfunciones.h
+
+1636853001 source:\\asusb460m-a\f\cudi\programacion i\c\trabajo practico n°1\misfunciones.c
+
+1636853145 source:\\asusb460m-a\f\cudi\programacion i\c\trabajo practico n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1636781408 \\asusb460m-a\f\cudi\programacion i\c\trabajo practico n°1\misfunciones.h
+
+1638342260 source:c:\users\leandro\documents\github\calculadora-tp1\misfunciones.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1638341837 source:c:\users\leandro\documents\github\calculadora-tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"misFunciones.h"
+
+1638341829 c:\users\leandro\documents\github\calculadora-tp1\misfunciones.h
+
